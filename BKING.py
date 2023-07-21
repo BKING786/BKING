@@ -28,11 +28,11 @@ for xd in range(10000):
         i='0'
         j=random.randrange(4200,4900)
         k=random.randrange(40,150)
-        l='	Mozilla/5.0 (Linux; Android 6.0; K-3 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2403.119 Mobile Safari/537.36)'
+        l='Mozilla/5.0 (Linux; Android 9; Nokia 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.60 Mobile Safari/537.36)'
         uaku2=f'{aa} {b}; {c}) {g}{h}.{i}.{j}.{k} {l}'
         ugen.append(uaku2)
 for agent in range(10000):
-        aa='Mozilla/5.0 (Linux; Android 7.0; SM-T813) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36;'
+        aa='Mozilla/5.0 (Linux; Android 10; J8210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36;'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='en-us; 10; T-Mobile myTouch 3G Slide Build/'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -43,7 +43,7 @@ for agent in range(10000):
         i='0'
         j=random.randrange(4200,4900)
         k=random.randrange(40,150)
-        l='Mozilla/5.0 (Linux; Android 10; moto g(9) power Build/QZC30.Q4-22-57; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36'
+        l='Mozilla/5.0 (Linux; Android 10; Redmi 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36'
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
 import getpass
@@ -76,7 +76,7 @@ logo=("""\033[1;37m
  Facebook  : RIND
  Tool Name : BALOCH
  Type type : FREE
- Version   : 0.2
+ Version   : 0.3
 -----------------------------------------------
  OH! MY GOD KEEP THEM ALL SAFE AND SOUND
 \033[1;37m----------------------------------------------""")
