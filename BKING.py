@@ -32,8 +32,7 @@ for xd in range(10000):
         uaku2=f'{aa} {b}; {c}) {g}{h}.{i}.{j}.{k} {l}'
         ugen.append(uaku2)
 for agent in range(10000):
-        aa='(Mozilla/5.0 (Linux; Android 8.0.0; SM-G930V) AppleWebKit/537.36) (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36
-];'
+        aa='(Mozilla/5.0 (Linux; Android 7.0; Impress_Vega Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36 YaApp_Android/10.91 YaSearchBrowser/10.91];'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='en-us; 10; T-Mobile myTouch 3G Slide Build/'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
